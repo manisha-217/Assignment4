@@ -1,0 +1,5 @@
+s1=set([6,8,0,6])
+s2=set([9,4,0,7])
+print(s1-s2)
+print(s1&s2)
+print(s)
